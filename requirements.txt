@@ -1,0 +1,7 @@
+pandas: Para manipulação de dados.
+numpy: Para operações numéricas e matrizes.
+matplotlib: Para visualização de dados.
+seaborn: Para criar gráficos estatísticos avançados.
+pingouin: Para análise estatística, como correlações.
+statsmodels: Para regressão e modelagem estatística.
+scipy: Para funções matemáticas e estatísticas avançadas, como a transformação Box-Cox.
